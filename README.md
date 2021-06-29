@@ -1,6 +1,6 @@
 # New Project
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ Bootstrapped with Create Snowpack App (CSA). Includes .env support, hotmodule replacement and prettier pre configured with husky.
 
 ## Available Scripts
 
